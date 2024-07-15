@@ -112,7 +112,30 @@ gap: 20px;
 #quick-list {
 font-weight: 500;
 }
+/* feture section */
+.fetures{
+    gap: 100px;
+}
+#feature-section-title{
+    border-left: 5px solid goldenrod;
+    padding-left:20px ;
+}
+.feture-card{
+    padding: 30px;
+    box-shadow: 0 40px 30px #f6faed ;
+    margin-bottom: 20px;
+    border-radius: 8px;
+   
+}
+.feture-title,.feture-card{
+    font-weight: 600;
+    font-size: 1.25rem;
+    margin-top: 0px;
+    margin-bottom: 0px;
 
+ 
+
+}
 
 /* some facts related */
 .facts-container{
